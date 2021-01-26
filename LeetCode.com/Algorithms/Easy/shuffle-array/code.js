@@ -19,10 +19,10 @@
  * @return {number[]}
  */
 var shuffle = function(nums, n) {
-    let f = []
-    for (let i=0; i<n; i++) {
-        f.push(nums[i])
-        f.push(nums[n + i])
-    }
-    return f
+	let f = []
+	for (let i=0; i<n; i++) {
+		f.push(nums[i])
+		f.push(nums[n + i])
+	}
+	return f
 };
