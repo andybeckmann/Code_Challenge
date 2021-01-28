@@ -1,5 +1,7 @@
 /**
- * LeetCode: 1431. Kids With the Greatest Number of Candies
+ * LeetCode: 1431 Kids With the Greatest Number of Candies
+ * 
+ * Description:
  *
  * Given the array candies and the integer extraCandies, 
  * where candies[i] represents the number of candies that 
@@ -8,6 +10,12 @@
  * For each kid check if there is a way to distribute 
  * extraCandies among the kids such that he or she can 
  * have the greatest number of candies among them.
+ * 
+ * Constraints:
+ * 
+ * 2 <= candies.length <= 100
+ * 1 <= candies[i] <= 100
+ * 1 <= extraCandies <= 50
  *
  * @param {number[]} candies
  * @param {number} extraCandies
