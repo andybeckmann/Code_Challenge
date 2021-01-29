@@ -6,7 +6,7 @@
 
 #### Easy
 
-- Palendrome ([https://github.com/andybeckmann/CodeChallenge/pal/code.js](https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/pal/code.js))
+- Palindrome ([https://github.com/andybeckmann/CodeChallenge/palindrome/code.js](https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/palindrome/code.js))
 - Two Sum ([https://github.com/andybeckmann/CodeChallenge/two-sum/code.js](https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/two-sum/code.js))
 - Reverse Integer ([https://github.com/andybeckmann/CodeChallenge/rev-int/code.js](https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/rev-int/code.js))
 - Running Sum ([https://github.com/andybeckmann/CodeChallenge/run-sum/code.js](https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/run-sum/code.js))
