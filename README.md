@@ -1,6 +1,6 @@
 # Code_Challenge
 
-## blob/main/LeetCode.com/
+## LeetCode.com
 
 ### Algorithms
 
@@ -12,7 +12,7 @@
 
 #### Two Sum 
 
-([https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com/Algorithms/Easytwo-sum/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com/Algorithms/Easy/two-sum/code.js)
+[https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com/Algorithms/Easytwo-sum/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com/Algorithms/Easy/two-sum/code.js)
 
 #### Reverse Integer 
 
