@@ -1,43 +1,31 @@
 # Code_Challenge
 
-## LeetCode.com
-
-### Algorithms
-
-#### Easy
-
-#### Palindrome 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easypalindrome/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com/Algorithms/Easy/palindrome/code.js)
-
-#### Two Sum 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easytwo-sum/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com/Algorithms/Easy/two-sum/code.js)
-
-#### Reverse Integer 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/reverse-integer/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com//Algorithms/Easy/reverse-integer/code.js)
-
-#### Running Sum 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easyrunning-sum-1d/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com//Algorithms/Easy/running-sum-1d/code.js)
-
-#### Shuffle String 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/shuffle-string/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com//Algorithms/Easy/shuffle-string/code.js)
-
-#### Shuffle Array 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/shuffle-array/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com//Algorithms/Easy/shuffle-array/code.js)
-
-#### Count Tournament Matches 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/count-tournament/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com//Algorithms/Easy/count-tournament/code.js)
-
-#### Return Richest Customer 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/richest-customer/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com//Algorithms/Easy/richest-customer/code.js)
-
-#### Extra Item Distribution 
-
-[https://github.com/andybeckmann/Code_Challenge/LeetCode.com/Algorithms/Easy/extra-candy/code.js](https://github.com/andybeckmann/Code_Challenge/blob/main/LeetCode.com//Algorithms/Easy/extra-candy/code.js)
+```
+/**
+ * Code by
+ *
+ *   █████╗ ██████╗ ███████╗ ██████╗
+ * ██╔══██╗██╔══██╗██╔════╝██╔════╝
+ * ███████║██████╔╝█████╗  ██║     
+ * ██╔══██║██╔══██╗██╔══╝  ██║     
+ * ██║  ██║██████╔╝███████╗╚██████╗
+ * ╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝
+ *
+ * -- ALGORITHMS --
+ *
+ * A001 - LeetCode 1528 - Return shuffled string ------------------ ;lc-shuff-string
+ * A002 - LeetCode 1470 - Return shuffled array ------------------- ;lc-shuff-arr
+ * A003 - LeetCode 1688 - Return count of matches in tournament --- ;lc-count-tourn
+ * A004 - LeetCode 1365 - Return count of values smaller than i --- ;lc-count-sm-val
+ * A005 - LeetCode 1295 - Return count of nums with even digits --- ;lc-count-even-digits
+ * A006 - LeetCode 0709 - Return string to lower case ------------- ;lc-to-lower-case
+ * A007 - LeetCode 1672 - Return array with largest sub-array ----- ;lc-rich-cust
+ * A008 - LeetCode 0007 - Return num with its digits reversed ----- ;lc-rev-int
+ * A009 - LeetCode 0009 - Return true if num is a palindrome ------ ;lc-pal
+ * A010 - LeetCode 0001 - Return two numbers that add to target --- ;lc-two-sum
+ * A011 - LeetCode 1464 - Return max product of two items in arr -- ;lc-max-prod
+ * A012 - LeetCode 1480 - Return the running sum of num ----------- ;lc-run-sum
+ * A013 - LeetCode 1108 - Return defanged IP ---------------------- ;lc-defang-ip
+ * A014 - LeetCode 1431 - Return largest increase by distribution - ;lc-extra-candy
+ *
+ */
