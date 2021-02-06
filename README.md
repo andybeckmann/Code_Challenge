@@ -2,7 +2,7 @@
 
 ```
 /**
- * Code by
+ * Code by ABEC
  *
  *   █████╗ ██████╗ ███████╗ ██████╗
  * ██╔══██╗██╔══██╗██╔════╝██╔════╝
@@ -21,7 +21,7 @@
  * A006 - LeetCode 0709 - Return string to lower case ------------- ;lc-to-lower-case
  * A007 - LeetCode 1672 - Return array with largest sub-array ----- ;lc-rich-cust
  * A008 - LeetCode 0922 - Return array sorted by parity ----------- ;lc-sort-arr-by-par
- * A009 - LeetCode 0007 - Return num with its digits reversed ----- ;lc-rev-int
+ * A009 - LeetCode 1207 - Return true if arr[i] occurs uniquely --- ;lc-unique-occ
  * A010 - LeetCode 0009 - Return true if num is a palindrome ------ ;lc-pal
  * A011 - LeetCode 1460 - Return true if arr can match target arr - ;lc-sub-arr-ree
  * A012 - LeetCode 0001 - Return two numbers that add to target --- ;lc-two-sum
@@ -29,6 +29,6 @@
  * A014 - LeetCode 1480 - Return the running sum of num ----------- ;lc-run-sum
  * A015 - LeetCode 1108 - Return defanged IP ---------------------- ;lc-defang-ip
  * A016 - LeetCode 1431 - Return largest increase by distribution - ;lc-extra-candy
- * A017 - LeetCode 1207 - Return true if arr[i] occurs uniquely --- ;lc-unique-occ
- *
+ * A017 - LeetCode 1748 - Return sum of unique elements in array -- ;lc-sum-unique
+ * A018 - LeetCode 0007 - Return num with its digits reversed ----- ;lc-rev-int
  */
