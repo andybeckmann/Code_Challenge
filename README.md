@@ -46,11 +46,12 @@
  * A025 - LeetCode 1748 - Return sum of unique elements in array ------ ;lc-sum-unique
  * A026 - LeetCode 0121 - Return best time to buy stock in array ------ ;lc-time-to-buy-stock-1
  * A027 - LeetCode 0122 - Return max profit of stock prices in array -- ;lc-time-to-buy-stock-2
+ * A028 - LeetCode 1732 - Return max gain in array -------------------- ;lc-highest-gain
  *
  * -- TREE --
  *
- * A028 - LeetCode 0671 - Return second lowest val in tree w DFS ------ ;lc-sec-low-val-dfs
- * A029 - LeetCode 0671 - Return second lowest val in tree w BFS ------ ;lc-sec-low-val-bfs
- * A030 - LeetCode 0617 - Return result of merging binary trees ------- ;lc-merge-trees
+ * A029 - LeetCode 0671 - Return second lowest val in tree w DFS ------ ;lc-sec-low-val-dfs
+ * A030 - LeetCode 0671 - Return second lowest val in tree w BFS ------ ;lc-sec-low-val-bfs
+ * A031 - LeetCode 0617 - Return result of merging binary trees ------- ;lc-merge-trees
  *
  */
