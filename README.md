@@ -56,4 +56,8 @@
  * A032 - LeetCode 0671 - Return second lowest val in tree w BFS ------ ;lc-sec-low-val-bfs
  * A033 - LeetCode 0617 - Return result of merging binary trees ------- ;lc-merge-trees
  *
+ * -- LIST --
+ *
+ * A034 - LeetCode 0209 - Return singly linked list in reverse -------- ;lc-rev-llist
+ *
  */
