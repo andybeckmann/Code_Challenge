@@ -23,6 +23,7 @@
  *  LeetCode.com: #0242 - Return true if strings are anagrams O(n^2) -- ;lc-valid-anagram-o-n-sq
  *  LeetCode.com: #0242 - Return true if strings are anagrams O(n) ---- ;lc-valid-anagram-o-n-x
  *  LeetCode.com: #1576 - Return string w replaced and no repetition -- ;lc-replace-qmark
+ *  LeetCOde.com: #1374 - Return a string with odd character counts --- ;lc-str-odd-count
  *  -
  *  CoderByte.com: - Return string in reverse ------------------------- ;cb-rev-str
  *  CoderByte.com: - Return the longest word in a given string -------- ;cb-long-word
@@ -61,6 +62,9 @@
  *  LeetCode.com: #0121 - Return best time to buy stock in array ------ ;lc-time-to-buy-stock-1
  *  LeetCode.com: #0122 - Return max profit of stock prices in array -- ;lc-time-to-buy-stock-2
  *  LeetCode.com: #1732 - Return max gain in array -------------------- ;lc-highest-gain
+ *  LeetCode.com: #1346 - Return true if N is double M ---------------- ;lc-n-dbl-m
+ *  LeetCode.com: #1389 - Return array with target order -------------- ;lc-reorder-arr
+ *  LeetCode.com: #1262 - Return greatest sum of nodes divisible by 3 - ;lc-greatest-sum-d-3
  *  -
  *  CoderByte.com: Return shared values between arrays of ints -------- ;cb-sha-val
  *  -
