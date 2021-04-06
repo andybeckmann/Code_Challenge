@@ -23,7 +23,8 @@
  *  LeetCode.com: #0242 - Return true if strings are anagrams O(n^2) -- ;lc-valid-anagram-o-n-sq
  *  LeetCode.com: #0242 - Return true if strings are anagrams O(n) ---- ;lc-valid-anagram-o-n-x
  *  LeetCode.com: #1576 - Return string w replaced and no repetition -- ;lc-replace-qmark
- *  LeetCOde.com: #1374 - Return a string with odd character counts --- ;lc-str-odd-count
+ *  LeetCode.com: #1374 - Return a string with odd character counts --- ;lc-str-odd-count
+ *  LeetCode.com: #1451 - Return strings words sorted by length ------- ;lc-sort-strs-by-len
  *  -
  *  CoderByte.com: - Return string in reverse ------------------------- ;cb-rev-str
  *  CoderByte.com: - Return the longest word in a given string -------- ;cb-long-word
