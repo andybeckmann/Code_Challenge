@@ -25,6 +25,7 @@
  *  LeetCode.com: #1576 - Return string w replaced and no repetition -- ;lc-replace-qmark
  *  LeetCode.com: #1374 - Return a string with odd character counts --- ;lc-str-odd-count
  *  LeetCode.com: #1451 - Return strings words sorted by length ------- ;lc-sort-strs-by-len
+ *  LeetCode.com: #0028 - Return index of the first occurrence in str - ;lc-index-of-first
  *  -
  *  CoderByte.com: - Return string in reverse ------------------------- ;cb-rev-str
  *  CoderByte.com: - Return the longest word in a given string -------- ;cb-long-word
@@ -66,6 +67,11 @@
  *  LeetCode.com: #1346 - Return true if N is double M ---------------- ;lc-n-dbl-m
  *  LeetCode.com: #1389 - Return array with target order -------------- ;lc-reorder-arr
  *  LeetCode.com: #1262 - Return greatest sum of nodes divisible by 3 - ;lc-greatest-sum-d-3
+ *  LeetCode.com: #0217 - Return true if contains duplicate I ——------- ;lc-contains-duplicate-one
+ *  LeetCode.com: #0219 - Return true if contains duplicate II ——------ ;lc-contains-duplicate-two
+ *  LeetCode.com: #0220 - Return true if contains duplicate III ——----- ;lc-contains-duplicate-three
+ *  LeetCode.com: #0704 - Return true if binary search match ---------- ;lc-binary-search
+ *  LeetCode.com: #0035 - Return insert position ---------------------- ;lc-search-insert-pos
  *  -
  *  CoderByte.com: Return shared values between arrays of ints -------- ;cb-sha-val
  *  -
@@ -87,3 +93,4 @@
  *  LeetCode.com: #0209 - Return singly linked list in reverse -------- ;lc-rev-llist
  *
  */
+```
